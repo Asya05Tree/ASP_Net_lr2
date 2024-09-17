@@ -1,0 +1,11 @@
+{
+  "Microsoft": {
+    "Employees": 100
+  },
+  "Apple": {
+    "Employees": 700
+  },
+  "Google": {
+    "Employees": 1
+  }
+}
